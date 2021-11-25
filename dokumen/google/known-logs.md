@@ -155,3 +155,5 @@ Base64 Log ID: sMyD5aX5fWuvfAnMKEkEhyrH6IsTLGNQt8b9JuFsbHc=
 Operator: Google
 Contact: google-ct-logs@googlegroups.com
 </pre>
+
+https://creativecommon.org/licence/by-SA/4.0
